@@ -3,7 +3,10 @@
 My personal dotfiles, tracked with a **bare git repository** whose work-tree is `$HOME`.
 No symlinks — the real config files are version-controlled in place.
 
-Tracked configs include Hyprland, Waybar, and Neovim (`~/.config/{hypr,waybar,nvim}`).
+Tracked configs include:
+Hyprland
+Waybar
+Neovim 
 
 ## Setup on a new machine
 
